@@ -1,5 +1,3 @@
-Sure! Here’s a clean and professional README.md for a Book Recommendation System project (ML + Streamlit style). Copy-paste directly into GitHub 👇
-
 📚 Book Recommendation System
 
 This project is a Book Recommendation System built using Machine Learning techniques.
